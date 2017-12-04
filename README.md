@@ -9,6 +9,7 @@ php版简易个人博客 www.00h5.com/php
 + 查看、搜索文章
 #### 管理员功能
 + 增、删、改、查
+##### 还有许多没完善！下了源码不要搞破坏哦！
 ![image](https://github.com/cxy-js/Blog-NodeJs/raw/master/public/images/phpblog1.png)
 ![image](https://github.com/cxy-js/Blog-NodeJs/raw/master/public/images/phpblog2.png)
 ![image](https://github.com/cxy-js/Blog-NodeJs/raw/master/public/images/phpblog3.png)
